@@ -1,0 +1,8 @@
+fastapi==0.117.1
+uvicorn[standard]==0.36.0
+python-multipart==0.0.20
+python-dotenv==1.1.1
+faster-whisper>=1.2.1
+torch>=2.10.0
+transformers>=5.3.0
+argostranslate>=1.11.0
